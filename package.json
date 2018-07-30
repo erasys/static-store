@@ -13,6 +13,7 @@
     "np": "^3.0.4"
   },
   "scripts": {
-    "release": "np"
+    "release": "np",
+    "test": "true"
   }
 }
