@@ -51,10 +51,10 @@ function getConfigPath(filename) {
  * An object which will contain a representation of the files in the directory
  * `other-config`.
  *
- * Example use: require('./extra-config').iceCreamFlavor[1] // returns 'VANILLA'
+ * Example use: require('./static-store').iceCreamFlavor[1] // returns 'VANILLA'
  *
  * The above example will look for the file
- * `extra-config/ice-cream-flavor.yaml`.
+ * `static-store/ice-cream-flavor.yaml`.
  *
  * Results are cached.
  */

@@ -8,5 +8,11 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "np": "^3.0.4"
+  },
+  "scripts": {
+    "release": "np"
   }
 }
